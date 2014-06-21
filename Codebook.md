@@ -52,24 +52,43 @@ In the tidied dataset, there are 21 variables used for describing what is being 
 Subject.Number: Subject ID
 Activity.ID: Activity ID between 1 to 6
 Activity: The activity labels
+
 tBodyAccMag-mean(): The average body acceleration magnitude
+
 tGravityAccMag-mean(): The average gravity acceleration magnitude
+
 tBodyAccJerkMag-mean(): The average body jerk signal
+
 tBodyGyroMag-mean(): The average body acceleration magnitude
+
 tBodyGyroJerkMag-mean(): The average jerk signal
+
 fBodyAccMag-mean(): Signal 4 after the FFT was applied
+
 fBodyBodyAccJerkMag-mean(): Signal 6 after the FFT was applied
+
 fBodyBodyGyroMag-mean(): Signal 7 after the FFT was applied
+
 fBodyBodyGyroJerkMag-mean(): Signal 8 after the FFT was applied
+
 tBodyAccMag-std(): The standard deviation of the acceleration magnitude
+
 tGravityAccMag-std(): The standard deviation gravity acceleration magnitude
+
 tBodyAccJerkMag-std(): The standard devition of the body jerk signal
+
 tBodyGyroMag-std(): The standard deviation body acceleration magnitude
+
 tBodyGyroJerkMag-std(): The standard deviation jerk signal
+
 fBodyAccMag-std(): Signal 13 after the FFT was applied
+
 fBodyBodyAccJerkMag-std(): Signal 15 after the FFT was applied
+
 fBodyBodyGyroMag-std(): Signal 16 after the FFT was applied
+
 fBodyBodyGyroJerkMag-std(): Signal 17 after the FFT was applied
+
 Steps of tidying data
 
 Read all the files in your directory into R as tables and create traning and test data frames.
