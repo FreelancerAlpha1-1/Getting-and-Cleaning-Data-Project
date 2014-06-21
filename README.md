@@ -6,7 +6,6 @@ CodeBook.md: Codebook for run_analysis.R
 
 run_analysis.R: Execution file for the R-code.
 
-tidy.csv: dataset
 
 Prerequisites for running run_analysis.R.
 
